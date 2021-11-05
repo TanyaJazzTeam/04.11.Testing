@@ -1,8 +1,0 @@
-synchronize:
-    paths:
-    - source: . 
-      include:
-        - "06.09.json"
-        - "07_1_09.md"
-      exclude:
-        - "09_1.yaml"
